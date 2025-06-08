@@ -1,0 +1,14 @@
+C:\Users\bahar\OneDrive\Desktop\lessonitbrains1\IT-BRAINS-C-SHARP\firstapp\firstapp\bin\Debug\firstapp.exe.config
+C:\Users\bahar\OneDrive\Desktop\lessonitbrains1\IT-BRAINS-C-SHARP\firstapp\firstapp\bin\Debug\firstapp.exe
+C:\Users\bahar\OneDrive\Desktop\lessonitbrains1\IT-BRAINS-C-SHARP\firstapp\firstapp\bin\Debug\firstapp.pdb
+C:\Users\bahar\OneDrive\Desktop\lessonitbrains1\IT-BRAINS-C-SHARP\firstapp\firstapp\obj\Debug\firstapp.csproj.AssemblyReference.cache
+C:\Users\bahar\OneDrive\Desktop\lessonitbrains1\IT-BRAINS-C-SHARP\firstapp\firstapp\obj\Debug\firstapp.csproj.CoreCompileInputs.cache
+C:\Users\bahar\OneDrive\Desktop\lessonitbrains1\IT-BRAINS-C-SHARP\firstapp\firstapp\obj\Debug\firstapp.exe
+C:\Users\bahar\OneDrive\Desktop\lessonitbrains1\IT-BRAINS-C-SHARP\firstapp\firstapp\obj\Debug\firstapp.pdb
+C:\Users\bahar\OneDrive\Desktop\lessonitbrains1\IT-BRAINS-C-SHARP\lesson3\firstapp\firstapp\bin\Debug\firstapp.exe.config
+C:\Users\bahar\OneDrive\Desktop\lessonitbrains1\IT-BRAINS-C-SHARP\lesson3\firstapp\firstapp\bin\Debug\firstapp.exe
+C:\Users\bahar\OneDrive\Desktop\lessonitbrains1\IT-BRAINS-C-SHARP\lesson3\firstapp\firstapp\bin\Debug\firstapp.pdb
+C:\Users\bahar\OneDrive\Desktop\lessonitbrains1\IT-BRAINS-C-SHARP\lesson3\firstapp\firstapp\obj\Debug\firstapp.csproj.AssemblyReference.cache
+C:\Users\bahar\OneDrive\Desktop\lessonitbrains1\IT-BRAINS-C-SHARP\lesson3\firstapp\firstapp\obj\Debug\firstapp.csproj.CoreCompileInputs.cache
+C:\Users\bahar\OneDrive\Desktop\lessonitbrains1\IT-BRAINS-C-SHARP\lesson3\firstapp\firstapp\obj\Debug\firstapp.exe
+C:\Users\bahar\OneDrive\Desktop\lessonitbrains1\IT-BRAINS-C-SHARP\lesson3\firstapp\firstapp\obj\Debug\firstapp.pdb
